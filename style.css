@@ -54,6 +54,7 @@ header{
   grid-row: 1/1;
 
   margin-left: 15px;
+  font-size: 20px;
 }
 
 .main{
@@ -70,6 +71,7 @@ header{
 .top > .extra{
   margin-left: 15px;
   width: 140px;
+  font-size: 17px;
 }
 
 .top > .tom{
@@ -79,6 +81,8 @@ header{
 
 main > .lista{
   margin-left: 30px;
+    font-size: 25px;
+  
 }
 
 
@@ -91,5 +95,3 @@ main > .lista{
   grid-column: 3/3;
   grid-row: 2/2;
 }
-
-
